@@ -1,5 +1,5 @@
 <p align="center">
-<img src='./flags/Web-VPN.png' style="height:300px;width:200px;" >
+<img src='./flags/Web-VPN.png' style="width:400px;" >
 </p>
 <h1 align=center>VPN WEBSITE SRC</h1>
 <br>
@@ -9,5 +9,5 @@
 <br>
 <div align="center">
 
-<img src='./flags/Robots.jpeg' style="height:300px; width:200px;">
+<img src='./flags/Robots.jpeg' style="width:600px;">
 </div>
