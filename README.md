@@ -1,10 +1,7 @@
-<!DOCTYPE html>
 <html>
 
 <head>
-    <meta charset="UTF-8">
     <link rel="stylesheet" href="MiHRK-style.css">
-    <title>VPN Toggle Button</title>
 </head>
 
 <body>
@@ -52,23 +49,6 @@
             </div>
         </div>
     </div>
-
-    <script>
-        const toggle = document.getElementById("toggle");
-        const controlMe = document.querySelector(".control-me");
-        const vpnlogo = document.querySelector(".vpnlogo");
-
-        toggle.addEventListener("change", function () {
-            if (toggle.checked) {
-                controlMe.textContent = "Connected";
-                vpnlogo.style.backgroundImage = "url('vpn-new-pic.png')"
-
-            } else {
-                controlMe.textContent = "Not Connected";
-                vpnlogo.style.backgroundImage = "url('vpn-old-pic.png')"
-            }
-        });
-    </script>
 </body>
 
 </html>
