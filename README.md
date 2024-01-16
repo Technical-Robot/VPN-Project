@@ -1,7 +1,8 @@
 <p align="center">
   <h1 align="center">VPN WEBSITE SRC</h1>
+  <img align="center" src='./flags/Web-VPN.png' style="width:500px;" >
   <br>
-<img align="center" src='./flags/Web-VPN.png' style="width:500px;" >
+
 </p>
 <h2 align="center">गांधी भाई █▬█ █ ▀█▀ </h2>
 <br>
