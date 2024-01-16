@@ -2,8 +2,6 @@
   <h1 align="center">VPN WEBSITE SRC</h1>
   <img src='./flags/Web-VPN.png' style="width:500px;>
   <br>
-
-</p>
 <hr>
 <h2 align="center">गांधी भाई █▬█ █ ▀█▀ </h2>
 <br>
@@ -15,3 +13,4 @@
 
 <img src='./flags/Robots.jpeg' style="width:640px;">
 </div>
+</p>
