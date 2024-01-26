@@ -1,6 +1,7 @@
 <p align="center" style="text-align:center">
   <h1 align="center">VPN WEBSITE SRC</h1>
-  <img src='./flags/Web-VPN.png' style="width:500px;>
+ 
+  <h1 align="center"><img src="./flags/Web-VPN.png" > </h1>
     
 </p>
   <br>
